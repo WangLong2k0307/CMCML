@@ -1,6 +1,6 @@
 # CMCML
 
-The source code for our paper "Information Processing and Management Category-guided Multi-interest Collaborative Metric Learning with Representation Uniformity Constraints". 
+The source code for our paper "Category-guided Multi-interest Collaborative Metric Learning with Representation Uniformity Constraints". 
 
 ## Dependencies
 All the experimental results of our paper are carried on a Ubuntu 18.04.4 server equipped with NVIDIA RTX3090 GPUs, Intel(R) Xeon(R) Silver 4314 CPU and 128GB size memory. In addition, our experiments were implemented based on python's pytorch framework, with the following specific experimental requirements,
