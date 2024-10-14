@@ -22,7 +22,8 @@ In our paper, we evaluate our method on three datasets, including:
   )
   
 
-![image-20241014204555003](C:/Users/15998/AppData/Roaming/Typora/typora-user-images/image-20241014204555003.png)
+![datasets](https://github.com/user-attachments/assets/d6074ebd-7807-4653-9c88-3383879eff9d)
+
 
 
 ## Usage
