@@ -1,0 +1,7 @@
+python=3.9.0
+pytorch=1.8.2
+numpy=1.24.2
+pandas=1.5.3
+scikit-learn
+tqdm
+toolz
