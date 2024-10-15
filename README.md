@@ -42,7 +42,7 @@ python test_max_diversification.py --data_path=data/ciao --model=CMCML --samping
 ```
 
 ## Questions
-If you have any questions, please send an email to Wang Long (wanglong1327@link.tyut.edu.cn). 
+If you have any questions, please send an email to Wang Long (17836201873@163.com) or Lian Tao (liantao@tyut.edu.cn). 
 
 ## Credit
 This repository is based on [DPCML](https://github.com/statusrank/DPCML). 
